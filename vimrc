@@ -7,3 +7,4 @@ set autoindent
 syntax enable
 colorscheme default
 set backspace=2
+set background=dark
